@@ -24,4 +24,12 @@ It detects eye closure, yawning, and head movement to determine driver alertness
 
 ---
 
+
 ## 📁 Project Structure
+## 📥 Download Required Model
+
+Download the dlib model from:
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
+Extract and place inside:
+models/
